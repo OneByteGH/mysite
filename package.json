@@ -1,5 +1,6 @@
 {
   "name": "mysite",
+  "description": "My portfolio site made using ReactJS and NativeBase`",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
